@@ -1,25 +1,25 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/fda-data-functions/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fda-data-functions/blob/main/README.md) >
 
-![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Fundamentals of Data Analysis - Course Material 2020
-### Topic: Data and Functions
+### Topic: [Data and Functions](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb)
 
 Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of the ``Higher Diploma in Science in Computing (Data Analytics) (H.Dip)`` programme (75 Credits) at **Galway-Mayo Institute of Technology (GMIT)**.
 
-[Abstract](https://nbviewer.jupyter.org/github/E6985/fda-data-functions/blob/main/fda-data-functions.ipynb#abstract)
+[Abstract](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb#abstract)
 
 ###### Keywords: nature of data; functions; model; identity for multiplication; identity for addition; methodologies; algorithms
 
-[Introduction](https://nbviewer.jupyter.org/github/E6985/fda-data-functions/blob/main/fda-data-functions.ipynb#introduction)
+[Introduction](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb#introduction)
 
 ###### Keywords: generic functions;  problem; CPU; programming languages for humans
 
-[Solution](https://nbviewer.jupyter.org/github/E6985/fda-data-functions/blob/main/fda-data-functions.ipynb#solution)
+[Solution](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb#solution)
 
 ###### Keywords: MapReduce; functional programming; Greenspun's tenth rule; efficient; iterator; list;  memory; map; call function; copy function; pass function as data; embarrassingly parallel; anonymous function; lambda; one-off; throw-away; reduce; list combine in some way; imperative; replace operator with function; subtract average from list
 
-[Conclusion](https://nbviewer.jupyter.org/github/E6985/fda-data-functions/blob/main/fda-data-functions.ipynb#conclusion)
+[Conclusion](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb#conclusion)
 
 ###### Keywords: map; reduce; MapReduce; parallelizable; data and functions; operator and function; convention; functional programming; first class objects; machine learning; statement manipulate data construct; model; Alan Turing; John Von Neaumann; imperative programming style; reality no distinction between data and functions
 
@@ -106,7 +106,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``git clone https://github.com/E6985/fda-data-functions.git``
+	``git clone https://github.com/SeanOhAileasa/fda-data-functions.git``
 
     - Run Jupyter Notebooks from the command line with the following:
 
@@ -118,6 +118,6 @@ https://www.anaconda.com/download/
 
 	- ***Notebook links will not work on github given that github renders as static HTML - also not able to view equation tag numbers. Please run on a local machine or use nbviewer (see below).***
 
-- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/E6985/fda-data-functions/blob/main/fda-data-functions.ipynb).
+- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data-functions/blob/main/fda-data-functions.ipynb).
 
 ## END
